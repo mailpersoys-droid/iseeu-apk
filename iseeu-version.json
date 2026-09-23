@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "3.1",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.1/ISEEU-3.1.apk",
-  "notes": "I SEE U a maintenant son propre depot de mises a jour. Rien ne change a l usage : c est la meme app, elle ira juste chercher ses prochaines versions a une nouvelle adresse."
+  "versionCode": 32,
+  "versionName": "3.2",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.2/ISEEU-3.2.apk",
+  "notes": "Quand HyperOS coupe la detection a l ecran apres une mise a jour, l app le dit maintenant au lieu de se taire. Un silence n est plus ambigu : tant que l alerte est la, I SEE U ne confirme plus rien, et il faut remettre l autorisation dans Sources."
 }
