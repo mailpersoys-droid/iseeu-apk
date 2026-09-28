@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "3.3",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.3/ISEEU-3.3.apk",
-  "notes": "Un message de groupe supprime ne s affiche plus qu une fois, meme si tes trois comptes l ont recu. Ce que tu supprimes toi-meme ne fait plus marquer un autre message par erreur. Une photo supprimee tout de suite est maintenant gardee. Dans le coffre, touche une photo revelee pour l agrandir (pince pour zoomer) ; une video ou un vocal s ouvre avec le lecteur du telephone."
+  "versionCode": 34,
+  "versionName": "3.4",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.4/ISEEU-3.4.apk",
+  "notes": "Faire defiler une vieille conversation ne fait plus marquer un message au hasard : chaque marque supprime est reconnue a l heure de sa bulle. La premiere suppression dans une conversation sans ancienne marque est maintenant rattrapee (elle etait ignoree). Une photo retiree au bout d une seconde est gardee, meme si tu es dans WhatsApp a ce moment-la. Journal et coffre mieux proteges contre une coupure."
 }
