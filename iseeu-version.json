@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.2",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.2/ISEEU-3.2.apk",
-  "notes": "Quand HyperOS coupe la detection a l ecran apres une mise a jour, l app le dit maintenant au lieu de se taire. Un silence n est plus ambigu : tant que l alerte est la, I SEE U ne confirme plus rien, et il faut remettre l autorisation dans Sources."
+  "versionCode": 33,
+  "versionName": "3.3",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.3/ISEEU-3.3.apk",
+  "notes": "Un message de groupe supprime ne s affiche plus qu une fois, meme si tes trois comptes l ont recu. Ce que tu supprimes toi-meme ne fait plus marquer un autre message par erreur. Une photo supprimee tout de suite est maintenant gardee. Dans le coffre, touche une photo revelee pour l agrandir (pince pour zoomer) ; une video ou un vocal s ouvre avec le lecteur du telephone."
 }
