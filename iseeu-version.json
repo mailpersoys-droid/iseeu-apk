@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.5",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.5/ISEEU-3.5.apk",
-  "notes": "Corrige le plantage a l ouverture : deux messages recus dans la meme seconde faisaient fermer l app. Rien n est perdu, les deux messages sont gardes."
+  "versionCode": 36,
+  "versionName": "3.6",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.6/ISEEU-3.6.apk",
+  "notes": "La loupe retrouve maintenant l heure d un message supprime quelle que soit la forme de la bulle : ton test du groupe voyait bien la suppression mais ne savait pas a quel message elle correspondait."
 }
