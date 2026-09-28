@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "3.4",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.4/ISEEU-3.4.apk",
-  "notes": "Faire defiler une vieille conversation ne fait plus marquer un message au hasard : chaque marque supprime est reconnue a l heure de sa bulle. La premiere suppression dans une conversation sans ancienne marque est maintenant rattrapee (elle etait ignoree). Une photo retiree au bout d une seconde est gardee, meme si tu es dans WhatsApp a ce moment-la. Journal et coffre mieux proteges contre une coupure."
+  "versionCode": 35,
+  "versionName": "3.5",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.5/ISEEU-3.5.apk",
+  "notes": "Corrige le plantage a l ouverture : deux messages recus dans la meme seconde faisaient fermer l app. Rien n est perdu, les deux messages sont gardes."
 }
