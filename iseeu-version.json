@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "3.9",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.9/ISEEU-3.9.apk",
-  "notes": "Coffre refait : on voit quand et sur quel compte chaque média a été supprimé, la photo en grand a ses boutons. Podium à trois marches. Nouveau logo aux couleurs de l'app."
+  "versionCode": 41,
+  "versionName": "3.10",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.10/ISEEU-3.10.apk",
+  "notes": "Écran Sources refait : l'état d'abord (les autorisations se replient quand tout va), « Vérifier les mises à jour » juste dessous, l'adresse rangée sous Avancé. Les boutons « Vider » se désarment seuls au bout de 4 secondes."
 }
