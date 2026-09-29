@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.7",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.7/ISEEU-3.7.apk",
-  "notes": "Nouveau look, plus lisible : textes avec accents, écritures plus grandes, boutons plus faciles à toucher, le geste retour marche partout, les jours ressortent dans le flux et le réglage du ménage est plus clair. La détection ne change pas."
+  "versionCode": 38,
+  "versionName": "3.7.1",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.7.1/ISEEU-3.7.1.apk",
+  "notes": "Thème retouché : blocs bien détachés, blanc à la place du vert émeraude, un halo qui pulse derrière l'œil quand l'app veille, le vert reste pour valider. Le réglage du ménage est plus clair : le délai vaut pour tous les comptes."
 }
