@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "3.10",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.10/ISEEU-3.10.apk",
-  "notes": "Écran Sources refait : l'état d'abord (les autorisations se replient quand tout va), « Vérifier les mises à jour » juste dessous, l'adresse rangée sous Avancé. Les boutons « Vider » se désarment seuls au bout de 4 secondes."
+  "versionCode": 42,
+  "versionName": "3.11",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.11/ISEEU-3.11.apk",
+  "notes": "Mouvement et TalkBack : les onglets passent en fondu, la fiche glisse et suit le geste retour, une suppression qui arrive pendant que tu regardes s'allume ; si Android coupe les animations, plus rien ne bouge ; TalkBack lit chaque carte en une phrase."
 }
