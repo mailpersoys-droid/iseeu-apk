@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "3.11",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.11/ISEEU-3.11.apk",
-  "notes": "Mouvement et TalkBack : les onglets passent en fondu, la fiche glisse et suit le geste retour, une suppression qui arrive pendant que tu regardes s'allume ; si Android coupe les animations, plus rien ne bouge ; TalkBack lit chaque carte en une phrase."
+  "versionCode": 43,
+  "versionName": "3.12",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.12/ISEEU-3.12.apk",
+  "notes": "3.12 : notifications refaites — suppression en corail avec le compte, plusieurs suppressions regroupées sous un résumé, alerte d'état en une phrase ; icône plus nette."
 }
