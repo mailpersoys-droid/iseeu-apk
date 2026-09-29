@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "3.7.1",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.7.1/ISEEU-3.7.1.apk",
-  "notes": "Thème retouché : blocs bien détachés, blanc à la place du vert émeraude, un halo qui pulse derrière l'œil quand l'app veille, le vert reste pour valider. Le réglage du ménage est plus clair : le délai vaut pour tous les comptes."
+  "versionCode": 39,
+  "versionName": "3.8",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.8/ISEEU-3.8.apk",
+  "notes": "Nouveau flux : un bandeau qui dit vraiment si I SEE U voit (et un bouton pour remettre ce qui est coupé), l'heure de suppression sur chaque carte, une fiche plus claire."
 }
