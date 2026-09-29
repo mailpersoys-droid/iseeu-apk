@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.8",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.8/ISEEU-3.8.apk",
-  "notes": "Nouveau flux : un bandeau qui dit vraiment si I SEE U voit (et un bouton pour remettre ce qui est coupé), l'heure de suppression sur chaque carte, une fiche plus claire."
+  "versionCode": 40,
+  "versionName": "3.9",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.9/ISEEU-3.9.apk",
+  "notes": "Coffre refait : on voit quand et sur quel compte chaque média a été supprimé, la photo en grand a ses boutons. Podium à trois marches. Nouveau logo aux couleurs de l'app."
 }
