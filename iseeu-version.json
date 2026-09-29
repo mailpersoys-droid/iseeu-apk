@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "3.6",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.6/ISEEU-3.6.apk",
-  "notes": "La loupe retrouve maintenant l heure d un message supprime quelle que soit la forme de la bulle : ton test du groupe voyait bien la suppression mais ne savait pas a quel message elle correspondait."
+  "versionCode": 37,
+  "versionName": "3.7",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.7/ISEEU-3.7.apk",
+  "notes": "Nouveau look, plus lisible : textes avec accents, écritures plus grandes, boutons plus faciles à toucher, le geste retour marche partout, les jours ressortent dans le flux et le réglage du ménage est plus clair. La détection ne change pas."
 }
