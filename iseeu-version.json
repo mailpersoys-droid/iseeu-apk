@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "3.13",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.13/ISEEU-3.13.apk",
-  "notes": "3.13 : vidéos et vocaux se jouent directement dans I SEE U, la notification d'un média ouvre ce média, nouvelles couleurs (rouge seulement pour une suppression sûre)"
+  "versionCode": 46,
+  "versionName": "3.14",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.14/ISEEU-3.14.apk",
+  "notes": "Sûr ou pas sûr : un doute a sa forme (pointillés ambre), une seule heure par carte, fiche plus claire (le nom en titre, supprimé entre telle et telle heure), Telegram dit franchement qu'il ne peut rien confirmer."
 }
