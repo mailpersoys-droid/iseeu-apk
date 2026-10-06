@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "3.12.1",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.12.1/ISEEU-3.12.1.apk",
-  "notes": "3.12.1 : les notes vocales sont enfin copiées. Après la mise à jour, va dans Sources > Accès aux médias > Régler et active « Accès à tous les fichiers ». Le bouton Vider le coffre distingue les supprimés des copies en surveillance."
+  "versionCode": 45,
+  "versionName": "3.13",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.13/ISEEU-3.13.apk",
+  "notes": "3.13 : vidéos et vocaux se jouent directement dans I SEE U, la notification d'un média ouvre ce média, nouvelles couleurs (rouge seulement pour une suppression sûre)"
 }
