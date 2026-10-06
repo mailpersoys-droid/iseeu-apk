@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "3.12",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.12/ISEEU-3.12.apk",
-  "notes": "3.12 : notifications refaites — suppression en corail avec le compte, plusieurs suppressions regroupées sous un résumé, alerte d'état en une phrase ; icône plus nette."
+  "versionCode": 44,
+  "versionName": "3.12.1",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.12.1/ISEEU-3.12.1.apk",
+  "notes": "3.12.1 : les notes vocales sont enfin copiées. Après la mise à jour, va dans Sources > Accès aux médias > Régler et active « Accès à tous les fichiers ». Le bouton Vider le coffre distingue les supprimés des copies en surveillance."
 }
