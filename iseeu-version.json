@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "3.16",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.16/ISEEU-3.16.apk",
-  "notes": "Coffre : l'heure de suppression dit si elle est exacte (« supprimée hier à 18:30 » ou « avant 10:30 »), légendes plus claires, vocaux supprimés retrouvés"
+  "versionCode": 49,
+  "versionName": "3.17",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.17/ISEEU-3.17.apk",
+  "notes": "Réglages plus clairs : l'onglet s'appelle Réglages, chaque source dit ce qu'elle confirme (Telegram : écouté, jamais confirmé), les échecs de mise à jour disent quoi faire. Podium : ex æquo au même rang, et chaque chiffre dit sur combien de cas il repose."
 }
