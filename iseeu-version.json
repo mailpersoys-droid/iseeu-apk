@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "3.17",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.17/ISEEU-3.17.apk",
-  "notes": "Réglages plus clairs : l'onglet s'appelle Réglages, chaque source dit ce qu'elle confirme (Telegram : écouté, jamais confirmé), les échecs de mise à jour disent quoi faire. Podium : ex æquo au même rang, et chaque chiffre dit sur combien de cas il repose."
+  "versionCode": 50,
+  "versionName": "3.18",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.18/ISEEU-3.18.apk",
+  "notes": "Telegram : I SEE U confirme maintenant une suppression quand le message sort de la notification, ou quand il manque dans la conversation entre deux messages encore là."
 }
