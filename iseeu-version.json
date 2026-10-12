@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "3.18",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.18/ISEEU-3.18.apk",
-  "notes": "Telegram : I SEE U confirme maintenant une suppression quand le message sort de la notification, ou quand il manque dans la conversation entre deux messages encore là."
+  "versionCode": 51,
+  "versionName": "3.19",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.19/ISEEU-3.19.apk",
+  "notes": "Telegram : plus de fausse alerte quand la notification se recharge à moitié"
 }
