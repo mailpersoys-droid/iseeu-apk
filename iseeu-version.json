@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "3.19",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.19/ISEEU-3.19.apk",
-  "notes": "Telegram : plus de fausse alerte quand la notification se recharge à moitié"
+  "versionCode": 52,
+  "versionName": "3.20",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.20/ISEEU-3.20.apk",
+  "notes": "3.20 : la photo ou la vidéo supprimée se voit dans le Flux (vignette floutée, photo à gratter dans la fiche), Lire tout sous 3 lignes."
 }
