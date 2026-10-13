@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "3.21",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.21/ISEEU-3.21.apk",
-  "notes": "3.21 : Réglages, Aide, Signaler un bug. Un texte, tes dernières captures d'écran et l'état de l'app, rangés sur le téléphone (rien ne part sur internet)."
+  "versionCode": 54,
+  "versionName": "3.22",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.22/ISEEU-3.22.apk",
+  "notes": "Vie privee : plus aucun nom ni texte dans les journaux de la loupe (reperes, longueurs, heures, formes) ; photos de contact rangees sous une empreinte, fichiers existants renommes sans perte. Aucune autre fonction ne change."
 }
