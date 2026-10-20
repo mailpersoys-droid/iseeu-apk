@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "3.23",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.23/ISEEU-3.23.apk",
-  "notes": "Journaux : plus aucune exception brute (nom de classe seul)."
+  "versionCode": 56,
+  "versionName": "3.24",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.24/ISEEU-3.24.apk",
+  "notes": "3.24 : moins de fausses suppressions. Une marque « Ce message a été supprimé » ne désigne plus un message que s'il a vraiment disparu de sa place dans la conversation."
 }
