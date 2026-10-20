@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "3.26",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.26/ISEEU-3.26.apk",
-  "notes": "3.26 : moins de fausses suppressions, et les groupes suivis sur plusieurs de tes comptes sont mieux rattrapés."
+  "versionCode": 59,
+  "versionName": "3.27",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.27/ISEEU-3.27.apk",
+  "notes": "3.27 : les petits carrés de couleur deviennent les vrais logos de WhatsApp, Business et Telegram."
 }
