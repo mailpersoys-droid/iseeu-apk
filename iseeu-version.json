@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "3.24",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.24/ISEEU-3.24.apk",
-  "notes": "3.24 : moins de fausses suppressions. Une marque « Ce message a été supprimé » ne désigne plus un message que s'il a vraiment disparu de sa place dans la conversation."
+  "versionCode": 57,
+  "versionName": "3.25",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.25/ISEEU-3.25.apk",
+  "notes": "3.25 : moins de fausses suppressions. Une marque « Ce message a été supprimé » ne désigne plus un message que s'il a vraiment disparu de sa place dans la conversation."
 }
