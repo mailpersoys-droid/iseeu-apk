@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "3.30",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.30/ISEEU-3.30.apk",
-  "notes": "Corrige une fausse alerte Telegram : un message reposé dans la notification n'est plus pris pour un message supprimé"
+  "versionCode": 63,
+  "versionName": "3.31",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.31/ISEEU-3.31.apk",
+  "notes": "Telegram : une suppression n'est plus perdue quand on ouvre la conversation juste après"
 }
