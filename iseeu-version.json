@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "3.33",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.33/ISEEU-3.33.apk",
-  "notes": "Messages modifiés : l'ancien texte et le nouveau, dans un onglet à part du Flux (Supprimés / Modifiés). Réglages : garder les modifications, me prévenir (coupé par défaut)."
+  "versionCode": 66,
+  "versionName": "3.34",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.34/ISEEU-3.34.apk",
+  "notes": "Messages modifiés : Telegram vu à l ouverture de la conversation (bulle edited), textes des sources corrigés"
 }
