@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "3.31",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.31/ISEEU-3.31.apk",
-  "notes": "Telegram : une suppression n'est plus perdue quand on ouvre la conversation juste après"
+  "versionCode": 64,
+  "versionName": "3.32",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.32/ISEEU-3.32.apk",
+  "notes": "Personnes ignorées : dans Réglages, choisis réseau par réseau les personnes ou groupes dont I SEE U ne garde ni ne signale plus rien (répertoire ou noms déjà vus)."
 }
