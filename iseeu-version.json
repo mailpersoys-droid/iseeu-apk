@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "3.28",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.28/ISEEU-3.28.apk",
-  "notes": "Instagram : les messages retirés sont rattrapés (par la notification). Ligne Instagram dans Réglages."
+  "versionCode": 61,
+  "versionName": "3.29",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.29/ISEEU-3.29.apk",
+  "notes": "Telegram : la preuve par la bulle disparue ne conclut plus que pour un message non lu, du même compte (normal ou clone)"
 }
