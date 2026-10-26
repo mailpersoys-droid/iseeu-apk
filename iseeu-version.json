@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "3.34",
-  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.34/ISEEU-3.34.apk",
-  "notes": "Messages modifiés : Telegram vu à l ouverture de la conversation (bulle edited), textes des sources corrigés"
+  "versionCode": 67,
+  "versionName": "3.35",
+  "url": "https://github.com/mailpersoys-droid/iseeu-apk/releases/download/iseeu-v3.35/ISEEU-3.35.apk",
+  "notes": "Mise en route avec accords loupe et notifications, signalement par e-mail, batterie sans permission spéciale"
 }
