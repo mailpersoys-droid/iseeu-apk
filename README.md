@@ -8,3 +8,6 @@ Publication : `/Users/Shared/iseeu/publier.sh "notes de version"`.
 
 Adresse lue par l'app :
 https://mailpersoys-droid.github.io/iseeu-apk/iseeu-version.json
+
+Politique de confidentialité (FR + EN), lien donné à Google Play :
+https://mailpersoys-droid.github.io/iseeu-apk/confidentialite.html
